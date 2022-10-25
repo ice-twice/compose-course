@@ -15,3 +15,6 @@
 4. MovieApp
 <video controls height="500" autoplay loop muted src="https://user-images.githubusercontent.com/16716940/197746608-f33a8832-eaa0-4baf-ab12-a82b483033e5.mp4">
 </video>
+5. JetNote
+<video controls height="500" autoplay loop muted src="https://user-images.githubusercontent.com/16716940/198683724-f2716acf-aacd-45ba-a68e-53cd83ebd691.mp4">
+</video>
