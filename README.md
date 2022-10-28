@@ -18,3 +18,6 @@
 5. JetNote
 <video controls height="500" autoplay loop muted src="https://user-images.githubusercontent.com/16716940/198683724-f2716acf-aacd-45ba-a68e-53cd83ebd691.mp4">
 </video>
+6. JetTrivia
+<video controls height="500" autoplay loop muted src="https://user-images.githubusercontent.com/16716940/200172516-5a831d1c-5088-4849-a344-89ee4f029aed.mp4">
+</video>
