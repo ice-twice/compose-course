@@ -21,3 +21,6 @@
 6. JetTrivia
 <video controls height="500" autoplay loop muted src="https://user-images.githubusercontent.com/16716940/200172516-5a831d1c-5088-4849-a344-89ee4f029aed.mp4">
 </video>
+7. JetWeatherForecast
+<video controls height="500" autoplay loop muted src="https://github.com/ice-twice/compose-course/assets/16716940/abefccd8-b147-4002-8c81-d8a8a0a1d90b">
+</video>

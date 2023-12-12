@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetWeatherForecast</string>
+    <string name="about_app">Weather App v1.0</string>
+</resources>
