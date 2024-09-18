@@ -24,3 +24,6 @@
 7. JetWeatherForecast
 <video controls height="500" autoplay loop muted src="https://github.com/ice-twice/compose-course/assets/16716940/abefccd8-b147-4002-8c81-d8a8a0a1d90b">
 </video>
+8. JetReader
+<video controls height="500" autoplay loop muted src="https://github.com/user-attachments/assets/82d59058-47bc-4dea-8b3b-f4575a3fe8fc">
+</video>
